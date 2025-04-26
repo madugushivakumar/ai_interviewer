@@ -1,0 +1,42 @@
+
+.login {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 120px;
+  top: 10px;
+    position: fixed;
+   
+}
+.login-btn {
+    padding: 10px 20px;   
+    background:lightblue ;
+    border-radius: 10px;
+    cursor: pointer;
+    background-image: linear-gradient(90deg, rgb(215, 210, 105), rgb(195, 218, 195));
+}
+.form-btn {
+    justify-content: center;
+        align-items: center;
+        position: absolute;
+        right: 125px;
+        top: 60px;
+        padding: 10px;
+        position: fixed;
+        border: 1px solid black;
+}
+.h2 {
+    margin-left: 48px;
+    background-color:rgb(53, 208, 208) ;
+    border-radius: 10px;
+    width: 90px;
+    margin-top: 0px;
+
+}
+.lbt {
+    margin-left: 22px;
+    background-color:rgb(149, 239, 247) ;
+    border-radius: 10px;
+    width: 90px;
+    height: 40px;
+}
